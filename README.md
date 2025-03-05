@@ -1,4 +1,4 @@
-<h1>Hey there 👋 I'm Dorian, a Cloud Full-Stack Engineer ☁️</h1>
+<h1>Hey there 👋 I'm Dorian, a Full-Stack Cloud Engineer ☁️</h1>
 
 
 - 💛 I love working with all Javascript/Typescript frameworks, especially VueJS and Svelte.
