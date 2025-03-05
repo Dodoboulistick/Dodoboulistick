@@ -1,9 +1,8 @@
-<h1>Hey there 👋 I'm Dorian, an aspiring Cloud Engineer ☁️</h1>
+<h1>Hey there 👋 I'm Dorian, a Cloud Full-Stack Engineer ☁️</h1>
 
 
-- 💛 I love working with all Javascript frameworks, especially VueJS
-- 💼 I've been working as a freelance web developer for several years, alongside my studies
-- 🌱 I’m currently studying AWS basics to get the Cloud Practioner Certification
+- 💛 I love working with all Javascript/Typescript frameworks, especially VueJS and Svelte.
+- 💼 I'm working as frontend Engineer for Scribe, a FinTech startup based in London.
 - 📫 How to reach me : mailto:dorian.mailhe@gmail.com
 - 💻 You can take a look at my website : https://dorian-mailhe.fr
 
